@@ -34,7 +34,7 @@ This is my personal portfolio website, built to showcase my skills, projects, an
 
 🚀 Live Demo
 
-https://your-portfolio-link.netlify.app
+https://myportfolio-soumya.netlify.app/
 
 
 📬 Contact Me
