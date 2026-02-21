@@ -18,7 +18,7 @@ function Hero() {
 
         <div className="hero-buttons">
           <a
-            href="/resume.pdf" // put your resume in public folder
+            href="/SoumyaBaadkar_resume.pdf" // put your resume in public folder
             download
             className="btn primary"
           >

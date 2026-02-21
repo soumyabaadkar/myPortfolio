@@ -5,7 +5,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <h2 className="logo">Soumya</h2>
+      <h2 className="logo">Soumya Baadkar</h2>
 
       {/* Hamburger for mobile */}
       <div
